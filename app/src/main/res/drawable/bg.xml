@@ -5,15 +5,15 @@
         <bitmap
             android:alpha="0.15"
             android:gravity="top|center"
-            android:src="@drawable/baby" />
+            android:src="@drawable/aykut" />
     </item>
     <item
         android:bottom="-300dp"
         android:left="0dp"
-        android:right="-300dp"
+        android:right="-600dp"
         android:top="300dp">
         <rotate
-            android:fromDegrees="-10"
+            android:fromDegrees="-20"
             android:pivotX="50%"
             android:pivotY="100%">
             <shape android:shape="rectangle">
